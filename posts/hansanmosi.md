@@ -1,0 +1,13 @@
+---
+title: '한산모시문화제 웹사이트'
+date: '2022'
+excerpt : '한산모시문화제 웹사이트 작업을 진행하였습니다. 문화제 소개와 아카이빙 목적에 맞게 작업하였습니다.'
+category : 'Web, 아임웹 테마 개발'
+client : '혜안, 한산모시문화제사무국'
+thumbnail : '/img/hansanmosi/2.png'
+---
+<img src="/img/hansanmosi/1.png">
+<img src="/img/hansanmosi/2.png">
+<img src="/img/hansanmosi/3.png">
+<img src="/img/hansanmosi/4.png">
+
